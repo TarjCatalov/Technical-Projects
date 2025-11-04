@@ -1,2 +1,4 @@
-# Technical-Projects
-Technical projects including software engineering coursework
+# SSL Certificates
+Java code to run and verify certificates I created
+
+
